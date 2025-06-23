@@ -1,7 +1,7 @@
 # ➤ shiyi0x7f
 <a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf">
 <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33">
-</a>
+</a><br/>
 
 <picture>
   <source
@@ -9,8 +9,6 @@
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=shiyi-0x7f&show_icons=true&hide_border=true&line_height=24&t=1" />
-</picture>
-<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyi-0x7f&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
