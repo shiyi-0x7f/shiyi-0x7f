@@ -17,7 +17,13 @@
 </picture>
 
 ### Tech stack
-<picture><img src="https://skillicons.dev/icons?i=python,nodejs,vue,cpp,js,mysql,redis,docker"></picture>
+#### Front-end stack
+<picture><img src="https://skillicons.dev/icons?i=vue,html,css,js,flutter"></picture>
+#### Back-end stack
+<picture><img src="https://skillicons.dev/icons?i=python,nodejs,cpp,mysql,redis,docker"></picture>
+
+### Used Tools
+<picture><img src="https://skillicons.dev/icons?i=cloudflare,vercel,pycharm,webstorm,clion,vscode,obsidian"></picture>
 
 ### O-lib Star History
 <a href="https://www.11xy.cn"><img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&amp;type=Date" alt="Olib"></a>
