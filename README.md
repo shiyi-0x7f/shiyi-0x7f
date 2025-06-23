@@ -1,5 +1,7 @@
 # ➤ shiyi0x7f
+<a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf">
 <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33">
+</a>
 
 <picture>
   <source
@@ -18,7 +20,7 @@
 
 ### Tech stack
 #### Front-end stack
-<picture><img src="https://skillicons.dev/icons?i=vue,html,css,js,flutter"></picture>
+<picture><img src="https://skillicons.dev/icons?i=vue,html,css,js,flutter,npm,pnpm"></picture>
 #### Back-end stack
 <picture><img src="https://skillicons.dev/icons?i=python,nodejs,cpp,mysql,redis,docker"></picture>
 
