@@ -1,5 +1,7 @@
 # ➤ shiyi0x7f
 <a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf" target="_blank">
+### O-lib Star History
+<a href="https://www.11xy.cn"><img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&amp;type=Date" alt="Olib"></a>
 <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33">
 </a><br>
 
@@ -26,6 +28,3 @@
 
 ### Used Tools
 <picture><img src="https://skillicons.dev/icons?i=cloudflare,vercel,pycharm,webstorm,clion,vscode,obsidian"></picture>
-
-### O-lib Star History
-<a href="https://www.11xy.cn"><img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&amp;type=Date" alt="Olib"></a>
