@@ -17,7 +17,10 @@
 
 ### 🌌 Vision & Focus
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&multiline=true&width=650&height=90&lines=🧠+AI-Native+Developer+focused+on+LLM+application+ecosystems;⚡+Bridging+the+gap+between+AI+models+and+user-centric+products;🚀+Based+in+Taiwan,+building+for+the+world" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&multiline=true&width=650&height=90&lines=🧠+AI-Native+Developer+focused+on+LLM+application+ecosystems;⚡+Bridging+the+gap+between+AI+models+and+user-centric+products;🚀+Based+in+Taiwan,+building+for+the+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=374151&center=true&vCenter=true&multiline=true&width=650&height=90&lines=🧠+AI-Native+Developer+focused+on+LLM+application+ecosystems;⚡+Bridging+the+gap+between+AI+models+and+user-centric+products;🚀+Based+in+Taiwan,+building+for+the+world" alt="Vision & Focus" />
+</picture>
 
 <br/>
 
