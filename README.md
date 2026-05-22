@@ -1,208 +1,162 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:24283b,50:414868,75:7aa2f7,100:bb9af7&height=230&section=header&text=shiyi-0x7f&fontSize=58&fontColor=c0caf5&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20TaiWan%20%F0%9F%87%B9%F0%9F%87%BC&descSize=16&descColor=a9b1d6&descAlignY=55&animation=fadeIn" />
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                      HEADER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- Typing SVG -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1c1f2b,100:7c3aed&height=200&section=header&text=shiyi-0x7f&fontSize=52&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%" />
+
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=%E2%9A%A1+Code+%C2%B7+Create+%C2%B7+Deploy+%C2%B7+Repeat;%F0%9F%8C%8F+Building+the+web%2C+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+performance+%26+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=full-stack+developer+%2F%2F+taiwan+%F0%9F%87%B9%F0%9F%87%BC;open+source+enthusiast+%E2%9C%A8;0x7F+%3D%3D+127+%3D%3D+DEL+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Badges -->
-<a href="https://www.11xy.cn" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-11xy.cn-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
-</a>&nbsp;&nbsp;
-<a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf" target="_blank">
-  <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support-e0af68?style=for-the-badge&labelColor=1a1b27" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/shiyi-0x7f" target="_blank">
-  <img src="https://img.shields.io/github/followers/shiyi-0x7f?style=for-the-badge&logo=github&logoColor=c0caf5&label=Follow&labelColor=1a1b27&color=bb9af7" />
-</a>
+<!-- Minimal badges -->
+[![Portfolio](https://img.shields.io/badge/11xy.cn-portfolio-a78bfa?style=flat&labelColor=0d1117)](https://www.11xy.cn)&nbsp;&nbsp;
+[![Sponsor](https://img.shields.io/badge/buy_me_a_coffee-☕-fbbf24?style=flat&labelColor=0d1117)](https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf)&nbsp;&nbsp;
+[![Followers](https://img.shields.io/github/followers/shiyi-0x7f?style=flat&logo=github&logoColor=e2e8f0&label=followers&labelColor=0d1117&color=a78bfa)](https://github.com/shiyi-0x7f)
 
 </div>
 
+---
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://img.shields.io/badge/-%20-1a1b27?style=flat-square" height="1" width="100%" />
+<table align="center"><tr><td width="50%" valign="top">
 
-<table align="center">
-<tr><td>
+### `> whoami`
 
-### &nbsp; 🧑‍💻 &nbsp; About Me
-
-```js
-const shiyi = {
-    location:  "TaiWan 🇹🇼",
-    role:      "Full-Stack Developer",
-    code:      ["JavaScript", "Python", "C++", "Dart", "Rust"],
-    askMeAbout: ["Web Dev", "Cloud Native", "Open Source"],
-    currentFocus: "Building scalable web applications",
-    funFact: "0x7F === 127 === DEL  // I delete bugs 🐛"
-};
+```ts
+const dev = {
+  name: "shiyi-0x7f",
+  based_in: "Taiwan 🇹🇼",
+  roles: ["Full-Stack Dev", "OSS Contributor"],
+  languages: ["JS/TS", "Python", "C++", "Dart", "Rust"],
+  interests: ["Web", "Cloud Native", "Performance"],
+  daily_routine: "code → debug → deploy → repeat"
+} as const;
 ```
 
-</td></tr>
-</table>
+</td><td width="50%" valign="top">
+
+### `> tech --list`
+
+**Languages**&nbsp;&nbsp;
+![JS](https://img.shields.io/badge/JS-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![TS](https://img.shields.io/badge/TS-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=fff)
+
+**Frontend**&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=fff)
+
+**Backend & Infra**&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/Node-5fa04e?style=flat-square&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=fff)
+
+**DevOps & Tools**&nbsp;&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=fff)
+
+</td></tr></table>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TROPHY SHELF -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                   GITHUB STATS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### `> stats --verbose`
+
+<br/>
 
 <picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" alt="Profile Details" width="680" />
 </picture>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<!-- Profile Summary Cards — reliable alternative to github-readme-stats -->
 <picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" alt="Profile Details" width="720" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiyi-0x7f&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiyi-0x7f&theme=default" />
+</picture>&nbsp;
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=tokyonight&utcOffset=8" media="(prefers-color-scheme: dark)" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=default&utcOffset=8" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiyi-0x7f&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiyi-0x7f&theme=default" alt="Stats" />
-</picture>&nbsp;&nbsp;
-<picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiyi-0x7f&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiyi-0x7f&theme=default" alt="Top Langs by Repo" />
-</picture>&nbsp;&nbsp;
-<picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiyi-0x7f&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiyi-0x7f&theme=default" alt="Top Langs by Commit" />
-</picture>
-
-<br/><br/>
-
-<!-- Streak Stats (demolab — more reliable than herokuapp) -->
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://streak-stats.demolab.com?user=shiyi-0x7f&hide_border=true&ring=0969da&fire=cf222e&currStreakLabel=0969da" alt="GitHub Streak" />
+  <source srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com?user=shiyi-0x7f&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<table>
-<tr>
-  <td align="center" width="130"><b>🎨 Front-End</b></td>
-  <td>
-    <picture><img src="https://skillicons.dev/icons?i=vue,react,html,css,js,ts,flutter&theme=dark" /></picture>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="130"><b>⚙️ Back-End</b></td>
-  <td>
-    <picture><img src="https://skillicons.dev/icons?i=python,nodejs,cpp,rust,mysql,redis,docker&theme=dark" /></picture>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="130"><b>🔧 DevOps</b></td>
-  <td>
-    <picture><img src="https://skillicons.dev/icons?i=cloudflare,vercel,git,github,linux,nginx&theme=dark" /></picture>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="130"><b>🖥️ IDEs</b></td>
-  <td>
-    <picture><img src="https://skillicons.dev/icons?i=pycharm,webstorm,clion,vscode,obsidian&theme=dark" /></picture>
-  </td>
-</tr>
-</table>
-
-</div>
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                 CONTRIBUTION GRAPH                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 📈 Contribution Graph
+### `> git log --graph`
+
+<br/>
 
 <picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shiyi-0x7f&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area_color=24283b&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiyi-0x7f&bg_color=ffffff&color=1f2328&line=0969da&point=8250df&area_color=ddf4ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=shiyi-0x7f&bg_color=0d1117&color=94a3b8&line=a78bfa&point=fbbf24&area_color=1e1b4b&area=true&hide_border=true&radius=8" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiyi-0x7f&bg_color=ffffff&color=374151&line=7c3aed&point=f59e0b&area_color=ede9fe&area=true&hide_border=true&radius=8" alt="Activity" width="95%" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- STAR HISTORY -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                   STAR HISTORY                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### ⭐ O-Lib Star History
+### `> star-history o-lib`
+
+<br/>
 
 <a href="https://star-history.com/#shiyi-0x7f/o-lib&Date">
   <picture>
-    <source
-      srcset="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date" alt="O-Lib Star History" width="640" />
+    <source srcset="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date" alt="Star History" width="600" />
   </picture>
 </a>
 
@@ -210,14 +164,17 @@ const shiyi = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                      FOOTER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=flat&color=a78bfa&labelColor=0d1117&label=visitors" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!_⭐-1a1b27?style=for-the-badge" />
+  <sub>⚡ crafted with passion</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:24283b,50:414868,75:7aa2f7,100:bb9af7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1c1f2b,100:7c3aed&height=150&section=footer" width="100%" />
