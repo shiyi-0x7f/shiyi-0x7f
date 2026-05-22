@@ -1,76 +1,81 @@
 <div align="center">
 
-# Hi there, I'm shiyi-0x7f 👋
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF79C6,100:BD93F9&height=180&section=header&text=Hello,%20I'm%20Shiyi&fontSize=65&fontColor=F8F8F2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Taiwan&descSize=20&descColor=6272A4&descAlignY=65" />
 
+<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=450&height=40&lines=Full-Stack+Developer;Open+Source+Enthusiast;Based+in+Taiwan+%F0%9F%87%B9%F0%9F%87%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=false&width=500&height=40&lines=Building+experiences+that+matter;Turning+coffee+into+clean+code;Passionate+about+web+performance" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-11xy.cn-58A6FF?style=flat-square&logo=safari&logoColor=white)](https://www.11xy.cn)&nbsp;&nbsp;
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDA33?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf)&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/shiyi-0x7f?style=flat-square&logo=github&logoColor=white&label=Follow)](https://github.com/shiyi-0x7f)
+<!-- Badges -->
+<a href="https://www.11xy.cn" target="_blank">
+  <img src="https://img.shields.io/badge/Website-11xy.cn-FF79C6?style=for-the-badge&logo=safari&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/shiyi-0x7f" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-shiyi--0x7f-282A36?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-Support-FFB86C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+</a>
 
-</div>
+<br/><br/><br/>
 
-<br/>
+### 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1&pause=10000000&color=F8F8F2&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌱+Currently+focusing+on+Vue,+React+and+Rust;🚀+Building+high-performance+web+applications;💡+0x7F+%3D+127+%3D+DEL+(Deleting+bugs+daily);📫+Reach+me+at+my+portfolio+website" />
 
-* 🔭 Currently working on scalable web applications and cloud-native solutions.
-* 🌱 Exploring the depths of **Rust** and advanced **Cloud** architectures.
-* ⚡ Fun fact: `0x7F = 127 = DEL` in ASCII. I delete bugs for a living.
+<br/><br/>
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <!-- Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,rust,dart&theme=dark" alt="Languages" />
-  </a>
-  <br />
-  <!-- Frontend -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,flutter,html,css&theme=dark" alt="Frontend" />
-  </a>
-  <br />
-  <!-- Backend & Infra -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,redis,docker,linux,git&theme=dark" alt="Backend and DevOps" />
-  </a>
-</p>
+### 🛠️ Tech Arsenal
 
 <br/>
 
-## 📊 GitHub Stats
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,rust,dart,html,css&theme=dark" />
+</a>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vue,react,flutter,nodejs,mysql,redis,docker,cloudflare&theme=dark" />
+</a>
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" alt="Profile Details" width="100%" style="max-width: 650px;"/>
-  </picture>
+<br/><br/><br/>
 
-  <br/><br/>
-
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=github-dark-blue&hide_border=true&background=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://streak-stats.demolab.com?user=shiyi-0x7f&hide_border=true&theme=default" alt="GitHub Streak" />
-  </picture>
-</div>
+### 📊 GitHub Activity
 
 <br/>
 
----
+<picture>
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" width="750" />
+</picture>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+<br/><br/>
+
+<picture>
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=dracula&utcOffset=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=default&utcOffset=8" />
+</picture>&nbsp;&nbsp;
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=dracula&hide_border=true&background=282a36"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180" src="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=default&hide_border=true" />
+</picture>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF79C6,100:BD93F9&height=80&section=footer" />
+
+<img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS&labelColor=282A36" />
+
 </div>
