@@ -1,81 +1,74 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF79C6,100:BD93F9&height=180&section=header&text=Hello,%20I'm%20Shiyi&fontSize=65&fontColor=F8F8F2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Taiwan&descSize=20&descColor=6272A4&descAlignY=65" />
-
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=false&width=500&height=40&lines=Building+experiences+that+matter;Turning+coffee+into+clean+code;Passionate+about+web+performance" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Badges -->
-<a href="https://www.11xy.cn" target="_blank">
-  <img src="https://img.shields.io/badge/Website-11xy.cn-FF79C6?style=for-the-badge&logo=safari&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/shiyi-0x7f" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-shiyi--0x7f-282A36?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Support-FFB86C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-</a>
-
-<br/><br/><br/>
-
-### 👨‍💻 About Me
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1&pause=10000000&color=F8F8F2&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌱+Currently+focusing+on+Vue,+React+and+Rust;🚀+Building+high-performance+web+applications;💡+0x7F+%3D+127+%3D+DEL+(Deleting+bugs+daily);📫+Reach+me+at+my+portfolio+website" />
+<!-- AI-Native Flowing Gradient Header (Vercel Aura Palette) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=220&section=header&text=shiyi-0x7f&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI-Native%20Architect%20%E2%9C%A8%20Building%20Intelligent%20Ecosystems&descSize=18&descColor=e2e8f0&descAlignY=58&animation=twinkling" width="100%" />
 
 <br/><br/>
 
-### 🛠️ Tech Arsenal
+[![Portfolio](https://img.shields.io/badge/Portfolio-11xy.cn-7928CA?style=for-the-badge&logo=safari&logoColor=white)](https://www.11xy.cn)&nbsp;
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support-FF0080?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://dquyl9k1r5u.feishu.cn/docx/BTiVdKqIaoBO5DxUSqQcDqdinLf)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/shiyi-0x7f?style=for-the-badge&logo=github&logoColor=white&color=121212)](https://github.com/shiyi-0x7f)
+
+</div>
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,rust,dart,html,css&theme=dark" />
-</a>
-<br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,react,flutter,nodejs,mysql,redis,docker,cloudflare&theme=dark" />
-</a>
+<div align="center">
 
-<br/><br/><br/>
+### 🌌 Vision & Focus
 
-### 📊 GitHub Activity
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&multiline=true&width=650&height=90&lines=🧠+AI-Native+Developer+focused+on+LLM+application+ecosystems;⚡+Bridging+the+gap+between+AI+models+and+user-centric+products;🚀+Based+in+Taiwan,+building+for+the+world" />
 
 <br/>
+
+### 🏆 Achievements
 
 <picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</picture>
+
+<br/><br/>
+
+### 🧠 Core Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,vue,react,nodejs,docker,cloudflare,vercel&theme=dark" />
+</a>
+
+<br/><br/>
+
+### 📊 GitHub Metrics
+
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=radical" media="(prefers-color-scheme: dark)" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" width="750" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=dracula&utcOffset=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiyi-0x7f&theme=default&utcOffset=8" />
-</picture>&nbsp;&nbsp;
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=dracula&hide_border=true&background=282a36"
-    media="(prefers-color-scheme: dark)"
-  />
+  <source srcset="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=radical&hide_border=true&background=141321" media="(prefers-color-scheme: dark)" />
   <img height="180" src="https://streak-stats.demolab.com?user=shiyi-0x7f&theme=default&hide_border=true" />
 </picture>
 
-<br/><br/><br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF79C6,100:BD93F9&height=80&section=footer" />
+### 🌟 Project Stars (O-Lib)
 
-<img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS&labelColor=282A36" />
+<a href="https://star-history.com/#shiyi-0x7f/o-lib&Date">
+  <picture>
+    <source srcset="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://api.star-history.com/svg?repos=shiyi-0x7f/o-lib&type=Date" alt="Star History" width="650" />
+  </picture>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer" width="100%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shiyi-0x7f&style=flat-square&color=FF0080&label=PROFILE+VIEWS" />
 
 </div>
