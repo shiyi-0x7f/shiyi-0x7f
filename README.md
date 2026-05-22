@@ -44,8 +44,12 @@
 ### 📊 GitHub Metrics
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=radical" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiyi-0x7f&theme=default" width="750" />
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shiyi-0x7f&show_icons=true&theme=radical&hide_border=true&bg_color=141321" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiyi-0x7f&show_icons=true&hide_border=true&title_color=FF0080&icon_color=7928CA&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="48%" />
+</picture>&nbsp;
+<picture>
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiyi-0x7f&layout=compact&theme=radical&hide_border=true&bg_color=141321" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiyi-0x7f&layout=compact&hide_border=true&title_color=FF0080&text_color=333333&bg_color=ffffff" alt="Top Langs" width="48%" />
 </picture>
 
 <br/><br/>
