@@ -24,14 +24,7 @@
 
 <br/>
 
-### 🏆 Achievements
 
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=radical&no-bg=true&no-frame=true&row=1&column=4&margin-w=15&margin-h=10" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shiyi-0x7f&theme=flat&no-bg=true&no-frame=true&row=1&column=4&margin-w=15&margin-h=10" alt="GitHub Trophies" />
-</picture>
-
-<br/><br/>
 
 ### 🧠 Core Tech Stack
 
