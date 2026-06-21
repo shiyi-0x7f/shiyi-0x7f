@@ -63,6 +63,15 @@
   </picture>
 </a>
 
+### 🌟 Project Stars (O-Lib-Mobile)
+
+<a href="https://star-history.com/#shiyi-0x7f/olib-mobile&Date">
+  <picture>
+    <source srcset="https://api.star-history.com/svg?repos=shiyi-0x7f/olib-mobile&type=Date&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://api.star-history.com/svg?repos=shiyi-0x7f/olib-mobile&type=Date" alt="Star History" width="650" />
+  </picture>
+</a>
+
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer" width="100%" />
